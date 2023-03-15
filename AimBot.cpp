@@ -1,7 +1,6 @@
 ﻿#include "memory.h"
 #include "vector.h"
 #include <thread>
-//#include "val.h"
 #include "CSGOoffsets.h"
 
 constexpr Vector CalculateAngle(
